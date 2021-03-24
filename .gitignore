@@ -1,2 +1,7 @@
-*.ml
 .idea
+css
+fonts
+js
+src
+1_flex_example.iml
+index.html
